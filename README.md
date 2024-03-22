@@ -1,7 +1,7 @@
 
 
 # Login Page
-![login](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/422266d8-1813-4cba-8f91-e5dc04aa270e)
+![login](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/cdca450e-4b96-4fbb-a4f3-048fd587cbfa)
 
 # Home Page
 ![homepagealpha](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/5d8dfdfe-459f-4b38-9cb0-5e5decf08df4)
