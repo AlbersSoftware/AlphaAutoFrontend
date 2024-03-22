@@ -1,5 +1,10 @@
+
+
+# Login Page
 ![login](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/422266d8-1813-4cba-8f91-e5dc04aa270e)
 
+# Home Page
+![homepagealpha](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/5d8dfdfe-459f-4b38-9cb0-5e5decf08df4)
 
 # create-svelte
 
