@@ -1,3 +1,6 @@
+![login](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/422266d8-1813-4cba-8f91-e5dc04aa270e)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
