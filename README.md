@@ -7,6 +7,9 @@
 ![homepagealpha](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/5d8dfdfe-459f-4b38-9cb0-5e5decf08df4)
 # Customer Page
 ![customerspagealpha](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/734bde7f-7e68-4321-8bd4-2c9b3eb82e27)
+# Create Customer Page
+![createcustomerpagealpha](https://github.com/AlbersSoftware/AlphaAutoFrontend/assets/65799182/6b93adad-ce05-49dd-a729-df1db4a6c5e5)
+# Error Messages
 
 
 # create-svelte
