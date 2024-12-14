@@ -261,6 +261,12 @@ function handleRowClick(event, customer) {
 
 <div style="margin-bottom: 20px;">
   <button type="button" class="w-full md:w-auto flex justify-center py-6 px-2 md:px-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500" onclick="window.location.href='/customers'">
+    Add Vehicle
+  </button>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <button type="button" class="w-full md:w-auto flex justify-center py-6 px-2 md:px-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-500 hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500" onclick="window.location.href='/customers'">
     Edit Customer Vehicle Info
   </button>
 </div>

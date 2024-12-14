@@ -58,47 +58,47 @@
     <div class="grid grid-cols-1 gap-y-6 gap-x-4 sm:grid-cols-6">
       <!-- First Name -->
       <div class="sm:col-span-3">
-        <label for="first_name" class="block text-sm font-medium text-gray-700">First Name</label>
+        <label for="first_name" class="block text-sm font-medium text-white-700">First Name</label>
         <input type="text" id="first_name" name="first_name" bind:value={formData.first_name} autocomplete="given-name" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- Last Name -->
       <div class="sm:col-span-3">
-        <label for="last_name" class="block text-sm font-medium text-gray-700">Last Name</label>
+        <label for="last_name" class="block text-sm font-medium text-white-700">Last Name</label>
         <input type="text" id="last_name" name="last_name" bind:value={formData.last_name} autocomplete="family-name" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- Address -->
       <div class="sm:col-span-6">
-        <label for="address" class="block text-sm font-medium text-gray-700">Address</label>
+        <label for="address" class="block text-sm font-medium text-white-700">Address</label>
         <input type="text" id="address" name="address" bind:value={formData.address} autocomplete="street-address" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- City -->
       <div class="sm:col-span-3">
-        <label for="city" class="block text-sm font-medium text-gray-700">City</label>
+        <label for="city" class="block text-sm font-medium text-white-700">City</label>
         <input type="text" id="city" name="city" bind:value={formData.city} autocomplete="address-level2" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- Province -->
       <div class="sm:col-span-2">
-        <label for="province" class="block text-sm font-medium text-gray-700">State</label>
+        <label for="province" class="block text-sm font-medium text-white-700">State</label>
         <input type="text" id="province" name="province" bind:value={formData.province} autocomplete="address-level1" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- Postal Code -->
       <div class="sm:col-span-1">
-        <label for="postal_code" class="block text-sm font-medium text-gray-700">Postal Code</label>
+        <label for="postal_code" class="block text-sm font-medium text-white-700">Postal Code</label>
         <input type="text" id="postal_code" name="postal_code" bind:value={formData.postal_code} autocomplete="postal-code" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- Phone Number -->
       <div class="sm:col-span-3">
-        <label for="phone_number" class="block text-sm font-medium text-gray-700">Phone Number</label>
+        <label for="phone_number" class="block text-sm font-medium text-white-700">Phone Number</label>
         <input type="text" id="phone_number" name="phone_number" bind:value={formData.phone_number} autocomplete="tel" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
       <!-- Email Address -->
       <div class="sm:col-span-3">
-        <label for="email" class="block text-sm font-medium text-gray-700">Email Address</label>
+        <label for="email" class="block text-sm font-medium text-white-700">Email Address</label>
         <input type="text" id="email" name="email" bind:value={formData.email} autocomplete="email" required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
 
         <div class="sm:col-span-3">
-        <label for="customer_notes" class="block text-sm font-medium text-gray-700">Customer Notes</label>
+        <label for="customer_notes" class="block text-sm font-medium text-white-700">Customer Notes</label>
         <input type="text" id="customer_notes" name="customer_notes" bind:value={formData.customer_notes} required class="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md text-black">
       </div>
     </div>
